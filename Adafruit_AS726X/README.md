@@ -13,3 +13,12 @@ Adafruit invests time and resources providing this open source code, please supp
 
 Written by Dean Miller for Adafruit Industries.
 MIT license, all text above must be included in any redistribution
+
+
+
+My work @Antonin_m84 : 
+inspiration : ![référence i2c adafruit](https://github.com/user-attachments/assets/08dc321c-5367-49aa-a5fc-8c6f599a2ef6)
+In header :  ![ajout header librairie h](https://github.com/user-attachments/assets/c73f7380-7906-4e06-a8c1-06d7ba563b42)
+In Cpp file : ![implémentation dasn cpp](https://github.com/user-attachments/assets/1a0584d8-8434-4f7c-b605-6455130c70e8)
+
+
